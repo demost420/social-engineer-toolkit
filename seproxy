@@ -22,7 +22,7 @@ except NameError:
 # grab the operating system
 operating_system = core.check_os()
 
-# if windows then do some stuff
+# if POSIX then do some stuff
 if operating_system == "posix":
 
     definepath = os.getcwd()
