@@ -62,6 +62,14 @@ For a full document on how to use SET, [visit the SET user manual](https://githu
 
 <br/>
 
+## Dashboard
+SET includes a minimal text-based dashboard to browse and launch modules.
+Run it with:
+
+```bash
+python3 src/dashboard.py
+```
+
 ## Bugs and enhancements
 For bug reports or enhancements, please open an [issue](https://github.com/trustedsec/social-engineer-toolkit/issues) here.
 <br/>
